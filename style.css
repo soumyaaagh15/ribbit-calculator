@@ -156,9 +156,30 @@ animation: gradient 8s ease-in;
   align-items: center;
   justify-content: center;
 
-  animation: blink 4s infinite;
+  animation: blink 3s infinite;
   overflow: hidden;
 }  
+@keyframes blink {
+  0%, 90%, 100% {
+    transform: scaleY(1);
+  }
+
+  92% {
+    transform: scaleY(0.08);
+  }
+
+  95% {
+    transform: scaleY(1);
+  }
+}
+
+
+
+
+
+
+
+
 
 .eye .cheek {
   position: absolute;
