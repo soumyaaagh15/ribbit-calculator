@@ -8,4 +8,4 @@ A basic 🐸 frog-themed calculator built with HTML, CSS and JavaScript.
 - Calculator operations
 
 ## Live Demo
-https://soumyaaagh15.github.io/ribbit-calculator-/
+https://soumyaaagh15.github.io/ribbit-calculator/
